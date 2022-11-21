@@ -1,8 +1,8 @@
 module.exports = {
   HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb",
+  USER: "sYYpTkzEuq",
+  PASSWORD: "Yy9egudnK7",
+  DB: "sYYpTkzEuq",
   dialect: "mysql",
   pool: {
     max: 5,
@@ -11,4 +11,6 @@ module.exports = {
     idle: 10000,
   },
 };
+// try setting up a local host server
+// check out postgres and mariaDB for
 //test
