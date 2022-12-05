@@ -1,1 +1,1 @@
-# nodejs-express-sequelize-mysql
+# booking backend
